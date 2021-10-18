@@ -1,0 +1,8 @@
+<resources>
+    <string name="add">Добавить</string>
+    <string name="create">Создать</string>
+    <string name="nameFilm">Название фильма</string>
+    <string name="rate">Оценка</string>
+    <string name="description">Описание</string>
+
+</resources>
